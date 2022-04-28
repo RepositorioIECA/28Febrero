@@ -80,7 +80,7 @@ include 'cabecera.php';
 	
 		<!-- fin de datos -->		
 		
-		
+	HOLA	
 		
 	    
 
